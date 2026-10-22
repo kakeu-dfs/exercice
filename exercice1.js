@@ -9,6 +9,7 @@ const mont_total_ttc = (p_unitaire * quant) + mont_tva;
 const mont_produit = p_unitaire * quant;
 const montant_final = mont_total_ttc + frais_livraison;
 const prix_moyen = mont_total_ttc / quant;
+console.log("===== RECU DE COMMANDE =====");
 console.log("Client:",nom);
 console.log("Produit:",n_prod);
 console.log("Prix unitaire:",p_unitaire,"FCFA");
