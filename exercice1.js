@@ -21,4 +21,6 @@ console.log("Livraison:",frais_livraison,"FCFA");
 console.log("TOTAL A PAYER:",montant_final,"FCFA");
 console.log(" ")
 console.log("Prix moyen TTC par produit:",prix_moyen,"FCFA");
-
+console.log("Type du nom:",typeof nom);
+console.log("Type du prix",typeof p_unitaire);
+console.log("Type de la quantité:",typeof quant);
