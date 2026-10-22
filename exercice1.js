@@ -16,7 +16,7 @@ console.log("Prix unitaire:",p_unitaire,"FCFA");
 console.log("Quantité:",quant);
 console.log(" ")
 console.log("Montant des produits:",mont_produit,"FCFA");
-console.log("TVA:",TVA,"FCFA");
+console.log("TVA(18%):",mont_tva,"FCFA");
 console.log("Montant TTC:",mont_total_ttc,"FCFA");
 console.log("Livraison:",frais_livraison,"FCFA");
 console.log("TOTAL A PAYER:",montant_final,"FCFA");
